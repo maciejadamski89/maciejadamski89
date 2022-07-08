@@ -7,6 +7,7 @@ Front-end Developer, Software Developer, DevOps
 *   🖥️  See my portfolio at [link](http://maciejadamski.ovh)
 *   ✉️  You can contact me at [maciej.adamski89@gmail.com](mailto:maciej.adamski89@gmail.com)
 *   🧠  I'm learning React, NextJS, MUI
+
 <a href="https://www.twitter.com/MaciejAdamski89" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MaciejAdamski89?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/maciejadamski89" target="_blank" rel="noreferrer"><img
@@ -46,10 +47,6 @@ src="https://img.shields.io/github/followers/maciejadamski89?logo=github&style=f
 <a href="http://www.github.com/maciejadamski89"><img src="https://activity-graph.herokuapp.com/graph?username=maciejadamski89&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/maciejadamski89" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejadamski89&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/maciejadamski"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
