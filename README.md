@@ -1,4 +1,4 @@
-# Hi,I'm Maciej Adamski. Software Developer from Poland.
+# Hi,I'm Maciej Adamski. Software Engineer from Poland.
 
 Software Developer, DevOps
 
