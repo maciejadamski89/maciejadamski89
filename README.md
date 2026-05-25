@@ -1,32 +1,23 @@
-# Hi,I'm Maciej Adamski. Software Engineer from Poland.
+# Maciej Adamski
 
-Software Developer, DevOps
+Wrocław-based software engineer — I build enterprise infrastructure by day and ship my own ventures by night.
 
--   🌍 I'm based in Wrocław
--   🖥️ See my personal site at [link](http://maciejadamski.ovh)
--   ✉️ You can contact me at [maciej.adamski89@gmail.com](mailto:maciej.adamski89@gmail.com)
+### Currently building
 
-### Skills
+- **[AURI](https://auri.fyi)** — hospitality booking SaaS. `Go · PostgreSQL · HTMX`
+- **[Dori Studio](https://dori.studio)** — websites for solo professionals, shipped in 7 days. `templ · Tailwind CSS`
+- **Kyndryl** — Site Reliability & automation for Michelin. `PowerShell · Python · VMware · PostgreSQL HA`
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+### Stack
 
-### Socials
+`Go · templ · HTMX · Tailwind CSS v4 · PostgreSQL · Terraform · Linux · Bash · Claude`
 
-<p align="left">
-<a href="https://www.facebook.com/maciej.adamski89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/maciej-adamski-0455a984/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/MaciejAdamski89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+No SPA frameworks. No runtime npm in production. Standard library first.
 
-### Support Me
+### Activity
 
-<a href="https://www.buymeacoffee.com/maciejadamski"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maciejadamski89&theme=github-compact)
+
+---
+
+📫 [maciej.adamski89@gmail.com](mailto:maciej.adamski89@gmail.com)
