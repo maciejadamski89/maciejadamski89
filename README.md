@@ -14,10 +14,6 @@ Wrocław-based software engineer — I build enterprise infrastructure by day an
 
 No SPA frameworks. No runtime npm in production. Standard library first.
 
-### Activity
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maciejadamski89&theme=github-compact)
-
 ---
 
 📫 [maciej.adamski89@gmail.com](mailto:maciej.adamski89@gmail.com)
